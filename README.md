@@ -2,29 +2,29 @@
                                  =+.
                                . .*+::**##
                              :
-                        .:-----.    :      -                   arthur@maulii
+                        .:-----.    :      -                   @arthurmaulii
                  . ###########%%%:                             ------------------------
                  ######****##*%%%%                             os: Arch Linux
-               =######*#**##***###%                            editor: Vim, Neovim
-              .############*******#                            multiplexer: TMUX
+               =######*#**##***###%                            editor: Kakoune, Vim
+              .############*******#                            multiplexer: TMUX, Zellij
               ###+##     %****##***#
               ##-#      -%##*#****#*-                          capability(stable):
               ###..     %%###########                          ------------------------
-              *#*      %%#############                         general: Python, Golang
-               #:      %%#.*###*#*####=                        web: Js, HTML, CSS, Node
-                #     %%##  ###########                        embedded: C, C++
-                 #   #%%#   .###**#####:                       db: Postgres, Mysql
-                  #  %%##    #****######
-                    %%%#.     *###**####=                      capability(beta):
+              *#*      %%#############                         object oriented: Python, Nim, Lua
+               #:      %%#.*###*#*####=                        functional: SML(NJ), Haskell
+                #     %%##  ###########                        imperative: Go, C 
+                 #   #%%#   .###**#####:                       concatenative: Forth
+                  #  %%##    #****######                       
+                    %%%#.     *###**####=                      contact(0800 ... 1400CST):
                    +%##.      *###**####*                      ------------------------
-                   %%%#        *##****#%##                     general: Nim
-                  %%%%  :     -*###**%#%%#                     web: React
-                 :%%%#   :   #####*###%%%##
-                 %%%%    ..*##.. %%%%%%@##*=                   contact(0800 ... 1400CST):
-                @%%%%%%%#*%%%%%%%%%%@@@%***#                   ------------------------
-                %%%%%%**#%%%%%%%@@@@@@%####@@                  linkedin: arthur-maul
-               %%%%@%    .         *****##%@@.                 gmail: arthurmiiengineering@gmail.com
-              %%%%%..        .     =#####%%@@@
+                   %%%#        *##****#%##                     linkedin: arthurmaulii
+                  %%%%  :     -*###**%#%%#                     gmail:    arthurmaulii.professional@gmail.com
+                 :%%%#   :   #####*###%%%##                    discord:  arthurmaulii.professional
+                 %%%%    ..*##.. %%%%%%@##*=                   
+                @%%%%%%%#*%%%%%%%%%%@@@%***#                   
+                %%%%%%**#%%%%%%%@@@@@@%####@@               
+               %%%%@%    .         *****##%@@.           
+              %%%%%..        .     =#####%%@@@        
           ##  %%%%.                 #####%%%@@#
              %%%@.                  .#*###%%%@@
           ..%%%@@:                   ##*####*#%@
