@@ -5,17 +5,17 @@
                         .:-----.    :      -                   @arthurmaulii
                  . ###########%%%:                             ------------------------
                  ######****##*%%%%                             os: Arch Linux
-               =######*#**##***###%                            editor: Kakoune, Vim
+               =######*#**##***###%                            editor: Kakoune, Vim, Nvim
               .############*******#                            multiplexer: TMUX, Zellij
               ###+##     %****##***#
               ##-#      -%##*#****#*-                          capability(stable):
               ###..     %%###########                          ------------------------
-              *#*      %%#############                         object oriented: Python, Nim, Lua
-               #:      %%#.*###*#*####=                        functional: SML(NJ), Haskell
-                #     %%##  ###########                        imperative: Go, C 
-                 #   #%%#   .###**#####:                       concatenative: Forth
+              *#*      %%#############                         object-oriented: Python, Lua
+               #:      %%#.*###*#*####=                        functional: SML, Haskell, APL
+                #     %%##  ###########                        imperative: Go, C, Forth
+                 #   #%%#   .###**#####:                       logical: Prolog, Curry
                   #  %%##    #****######                       
-                    %%%#.     *###**####=                      contact(0800 ... 1400CST):
+                    %%%#.     *###**####=                      contact(0800 ... 1400 CST):
                    +%##.      *###**####*                      ------------------------
                    %%%#        *##****#%##                     linkedin: arthurmaulii
                   %%%%  :     -*###**%#%%#                     gmail:    arthurmaulii.professional@gmail.com
