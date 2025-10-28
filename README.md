@@ -8,14 +8,14 @@
                =######*#**##***###%                            editor: Kakoune, Vim, Nvim
               .############*******#                            multiplexer: TMUX, Zellij
               ###+##     %****##***#
-              ##-#      -%##*#****#*-                          capability(stable):
-              ###..     %%###########                          ------------------------
-              *#*      %%#############                         object-oriented: Python, Lua
-               #:      %%#.*###*#*####=                        functional: SML, Haskell, APL
-                #     %%##  ###########                        imperative: Go, C, Forth
-                 #   #%%#   .###**#####:                       logical: Prolog, Curry
+              ##-#      -%##*#****#*-                          interests:
+              ###..     %%###########                           ------------------------
+              *#*      %%#############                         Programming language development
+               #:      %%#.*###*#*####=                        2D/3D game development
+                #     %%##  ###########                        Game engine development
+                 #   #%%#   .###**#####:                       Teaching and mentorship
                   #  %%##    #****######                       
-                    %%%#.     *###**####=                      contact(0800 ... 1400 CST):
+                    %%%#.     *###**####=                      contact (0800 ..< 1400 CST):
                    +%##.      *###**####*                      ------------------------
                    %%%#        *##****#%##                     linkedin: arthurmaulii
                   %%%%  :     -*###**%#%%#                     gmail:    arthurmaulii.professional@gmail.com
