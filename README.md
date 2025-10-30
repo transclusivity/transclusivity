@@ -2,7 +2,7 @@
                                  =+.
                                . .*+::**##
                              :
-                        .:-----.    :      -                   @arthurmaulii
+                        .:-----.    :      -                   @transclusivity
                  . ###########%%%:                             ------------------------
                  ######****##*%%%%                             os: Arch Linux
                =######*#**##***###%                            editor: Kakoune, Vim, Nvim
