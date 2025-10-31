@@ -1,7 +1,7 @@
 ```python
 ' ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ '                   
 '                       '          p e r i d o t .
-'     .d``              '       ___________________________________________
+'     .d`               '       ___________________________________________
 '     @8Ne.   .u        '        ▪ status (availability): Open.
 '     %8888:u@88N       '        ▪ projects (active):
 '      `888I  888.      '          ▪ Lia (educational programming system).
