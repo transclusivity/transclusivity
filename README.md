@@ -16,5 +16,6 @@
 '       `8>             '          ▪ database management system development.
 '        `              '        ▪ online (CST): 0800 ..< 1400
 '                       '
-' _ _ _ _ _ _ _ _ _ _ _ '           
+' _ _ _ _ _ _ _ _ _ _ _ '
+'                       '
 ```
